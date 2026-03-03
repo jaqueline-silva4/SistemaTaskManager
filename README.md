@@ -93,4 +93,5 @@ Após executar uma ação, o menu é exibido novamente até que o usuário selec
 ## 👩‍💻 Autora
 
 Jaqueline da Silva Miranda
+
 Estudante de Ciência da Computação
